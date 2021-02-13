@@ -1,0 +1,10 @@
+## Game Logic And Rules
+
+# Access to the canvas element
+# Create Game Background.
+# Import Necessary Audio File 
+# Initialize the snake array and food as well.
+# Draw the snake and the food
+# Control The Snake Direction
+# Make the snake move to a specific Direction
+# Draw Everthing into the Canvas
